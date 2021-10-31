@@ -8,7 +8,7 @@
 ## 01. git 용어 정의
 ### 공간
 
-/이미지 여기/
+https://github.com/juneyoung/git_edu/blob/main/src/stage_area.png
 
 상단에 있는 이미지는 git 의 공간 중 사용자 머신에 있는 3 가지 공간들에 대해 보여줍니다. 
 - working directory: 사용자가 변경을 만들어내는 곳입니다.
@@ -18,7 +18,7 @@
 
 ### 파일의 상태
 
-/이미지 여기/
+https://github.com/juneyoung/git_edu/blob/main/src/lifecycle.png
 
 - untracked: git 에서 관리하는 파일이 아님
 - unmodified: 변경되지 않았음
