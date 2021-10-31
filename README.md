@@ -20,10 +20,10 @@ git 을 사용하고 있지만 cli 에 익숙하지 않거나 사용하는 커�
 
 ### Week 2
 2 주차에는 confict 상황을 해결할 수 있는 옵션들에 대해 배워봅니다. [링크](https://github.com/juneyoung/git_edu/tree/main/week2)
-- status 와 diff
-- stash 로 임시 저장하기
-- cherry-pick 으로 원하는 변경만 반영하기
-- rebase 와 revert
+- 변경점 병합하기
+- 변경 내용 임시저장하기
+- 없었던 일로 하기
+- 내역을 유지한 채로 취소하기
 
 ### Week 3
 3 주차에는 팀에서 사용하는 에티켓과 브랜치 전략을 설명합니다. [링크](https://github.com/juneyoung/git_edu/tree/main/week3)
