@@ -34,7 +34,7 @@ alias gsl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset 
 ### Week 3
 3 주차에는 팀에서 사용하는 에티켓과 브랜치 전략을 설명합니다. [링크](https://github.com/juneyoung/git_edu/tree/main/week3)
 - hooks
-- 커밋 단
+- 커밋 단장하기
 - tag 와 버전 관리
 
 ### *. 참고자료
